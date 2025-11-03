@@ -8,6 +8,9 @@ function App() {
 
   return (
     <>
+    <header>
+      <h1>La mia prima app(più o meno)</h1>
+    </header>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
